@@ -137,7 +137,7 @@ body.dark-mode .navbar .dark-mode-toggle {
     width: 250px;
     position: fixed;
     left: 0;
-    top: 70px; /* Adjusted to be below the navbar */
+    top: 100px; /* Adjusted to be below the navbar */
     height: calc(100vh - 70px);
     z-index: 1001;
     background-color: #000000;
